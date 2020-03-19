@@ -1,0 +1,15 @@
+git add +文件名 将文件添加到本地仓库
+git status 查看状态
+git commit -m  “修改说明”
+git remote add origin 你的远程库地址
+
+git push -u origin master 第一次推送时
+
+git push origin master  // 第一次推送后，直接使用该命令即可推送修改 
+
+查看用户名和邮箱地址
+
+　　　　　　git config user.name
+   　　　　　git config user.email
+
+git remote -v　　  　　 即可查看git的服务器地址
