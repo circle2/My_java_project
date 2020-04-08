@@ -13,5 +13,4 @@ git push origin master  // µÚÒ»´ÎÍÆËÍºó£¬Ö±½ÓÊ¹ÓÃ¸ÃÃüÁî¼´¿ÉÍÆËÍĞŞ¸Ä
    ¡¡¡¡¡¡¡¡¡¡git config user.email
 
 git remote -v¡¡¡¡  ¡¡¡¡ ¼´¿É²é¿´gitµÄ·şÎñÆ÷µØÖ·
-"¿¿¿¿¿"
 ¿¿¿¿¿
